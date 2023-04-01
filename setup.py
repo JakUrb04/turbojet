@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='turbojet',
-    version='0.0.1',
+    version='0.0.2',
     description='Biblioteka do obliczeń związanych z silnikami lotniczymi',
     url='https://github.com/JakUrb04/turbojet.git',
     author='Jakub Urbaniak',
