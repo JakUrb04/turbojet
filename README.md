@@ -1,3 +1,3 @@
 # turbojet
 
-Tu coś powstanie
+Podstawowe wzory do obliczania lotniczych silników turboodrzutowych
